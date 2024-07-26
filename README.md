@@ -16,7 +16,7 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 </p>  
 
 # TODO - v1.0.1
-- [ ] Adding english version
+- [ ] Add english version
 
 ## 🔍 Features <a name = "features"></a>
 - **Automatic Contact Addition**: Add a list of contacts to a WhatsApp group effortlessly.

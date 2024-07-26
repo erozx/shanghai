@@ -8,7 +8,7 @@
 <p align="center"> 
 Shanghai is a simple but useful bot designed to automate the process of adding contacts to a WhatsApp group. Its name, "Shanghai," reflects its function of 'kidnapping' contacts into the group.
     </br> </br> 
-    <img src="https://img.shields.io/badge/NODEJS-18.x-ebcb8b?style=flat-square"/>  <img src="https://img.shields.io/badge/LICENE-MIT-blue?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square"/><br/>
+    <img src="https://img.shields.io/badge/NODEJS-18.x-ebcb8b?style=flat-square"/>  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square"/><br/>
 </p>
 
 <p align='center'>

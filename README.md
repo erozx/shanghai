@@ -37,7 +37,8 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 ### Prerequisites <a name = "prerequisites"></a>
 ```bash
 - Node.js (v18 or higher)
-- WhatsApp account for authentication
+- WhatsApp account for authentication that has group admin permissions ![NodeJS](https://nodejs.org/en/download/package-manager)
+- The number to be added to the group must first be saved to contacts in order to be added to the group.
 ```
 
 ### Installation <a name = "installation"></a>

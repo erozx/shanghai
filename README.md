@@ -34,7 +34,7 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 
 ## 🚀 Getting Started <a name = "getting_started"></a>
 First of all, nodejs must be installed on the device that will be used.
-![Download Here from official website](https://nodejs.org/en/download/package-manager)
+[Download Here from official website](https://nodejs.org/en/download/package-manager)
 
 ### Prerequisites <a name = "prerequisites"></a>
 ```bash

@@ -33,8 +33,8 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 - **Real-Time Logging**: Provides real-time logs for monitoring the bot's actions.
 
 ## 🚀 Getting Started <a name = "getting_started"></a>
-First of all, nodejs must be installed on the device that will be used.
-[Download Here from official website](https://nodejs.org/en/download/package-manager)
+First of all, nodejs must be installed on the device that will be used. </br>
+<a href="https://nodejs.org/en/download/package-manager" target="_blank">Download here from the official website</a>
 
 ### Prerequisites <a name = "prerequisites"></a>
 ```bash

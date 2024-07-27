@@ -16,6 +16,8 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 </p>  
 
 # TODO - v1.1.1
+## Major (later)
+- [ ] Make the gui version
 ## Minor
 - [ ] Add english version
 - [ ] Choice to load welcome message from text file

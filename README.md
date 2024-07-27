@@ -70,13 +70,43 @@ $ npm start
 3. **Monitoring**: Monitor the real-time logs to track the bot's progress and actions.
 
 ### Example
-Here’s an example of what the input process looks like:
-
+Here’s an example of what the output process looks like:
+(the numbers listed here are fake numbers, for example)
 ```bash
+$ npm start
+
+> shanghai@1.0.0 start
+> node index.js
+
+[2024-07-27 12:56:31] [%] Sedang memulai bot, harap tunggu...
+[2024-07-27 12:56:44] [+] User terverifikasi!
+
+        ┓       ┓   •
+       ┏┣┓┏┓┏┓┏┓┣┓┏┓┓
+       ┛┛┗┗┻┛┗┗┫┛┗┗┻┗
+        v1.0.0 ┛
+        By ./SansXpl
+
 Masukkan nama grup (lengkap): My Group
-Masukkan pesan selamat datang: Welcome to My Group!
-Masukkan delay setiap memasukkan kontak (detik): 5
-Kirim pesan selamat datang setiap berapa kontak: 10
+
+[2024-07-27 12:56:48] [INFO] Bot telah disetting ke grup My Group
+
+Masukkan pesan selamat datang: Welcome to my group!
+Masukkan delay setiap memasukkan kontak (detik): 1
+Kirim pesan selamat datang setiap berapa kontak: 1
+
+[2024-07-27 12:57:04] [INFO] Memulai menambahkan kontak
+
+[2024-07-27 12:57:07] [+] Nomor 0123456789 berhasil dimasukkan kedalam grup My Group
+
+[2024-07-27 12:57:07] [INFO] Pesan selamat datang berhasil di kirim ke grup My Group
+
+[2024-07-27 12:57:09] [+] Nomor 1122334455 berhasil dimasukkan kedalam grup My Group
+
+[2024-07-27 12:57:09] [INFO] Pesan selamat datang berhasil di kirim ke grup My Group
+
+[2024-07-27 12:57:10]
+[DONE] Semua kontak telah berhasil di tambahkan
 ```
 
 ## ✍️ Authors <a name = "authors"></a>

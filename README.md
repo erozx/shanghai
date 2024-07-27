@@ -33,11 +33,13 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 - **Real-Time Logging**: Provides real-time logs for monitoring the bot's actions.
 
 ## 🚀 Getting Started <a name = "getting_started"></a>
+First of all, nodejs must be installed on the device that will be used.
+![Download Here from official website](https://nodejs.org/en/download/package-manager)
 
 ### Prerequisites <a name = "prerequisites"></a>
 ```bash
 - Node.js (v18 or higher)
-- WhatsApp account for authentication that has group admin permissions ![NodeJS](https://nodejs.org/en/download/package-manager)
+- WhatsApp account for authentication that has group admin permissions
 - The number to be added to the group must first be saved to contacts in order to be added to the group.
 ```
 

@@ -15,9 +15,16 @@ Shanghai is a simple but useful bot designed to automate the process of adding c
 <a href="#features"><img src="https://img.shields.io/badge/features-2e3440?style=for-the-badge"/></a> <a href="#getting_started"><img src="https://img.shields.io/badge/Getting Started-2e3440?style=for-the-badge"/></a> <a href="#prerequisites"><img src="https://img.shields.io/badge/Prerequisites-2e3440?style=for-the-badge"/></a> <a href="#installation"><img src="https://img.shields.io/badge/Installation-2e3440?style=for-the-badge"/></a> <a href="#usage"><img src="https://img.shields.io/badge/Usage-2e3440?style=for-the-badge"/></a> <a href="#authors"><img src="https://img.shields.io/badge/Authors-2e3440?style=for-the-badge"/></a> <a href="#license"><img src="https://img.shields.io/badge/License-2e3440?style=for-the-badge"/></a>
 </p>  
 
-# TODO - v1.0.1
+# TODO - v1.1.1
+## Minor
 - [ ] Add english version
-
+- [ ] Choice to load welcome message from text file
+- [ ] Check each number before adding into group
+- [ ] Can add multiple contact at once
+- [ ] Can add into multiple group at once
+## Patch
+- [ ] Fix auth & cache folder
+      
 ## 🔍 Features <a name = "features"></a>
 - **Automatic Contact Addition**: Add a list of contacts to a WhatsApp group effortlessly.
 - **Customizable Delays**: Set delay intervals between adding each contact to avoid bans.
